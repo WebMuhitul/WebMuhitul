@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/C5616AQGp734BL7302A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1668008376352?e=1746057600&v=beta&t=6KxLLcbYzT0rLkN6GPasCy-JkxShxyXl7uMJxTXXjFk">
 <h1 align="center">Hi 👋, I'm Muhitul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
